@@ -9,3 +9,4 @@ end
 
 def yielding
   puts array[i]
+end
