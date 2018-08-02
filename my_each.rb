@@ -5,8 +5,9 @@ def my_each(array)
     yield
     i += 1
   end
-end
 
-def yielding
-  array[i]
+  def yielding
+    array[i]
+  end
+  
 end
