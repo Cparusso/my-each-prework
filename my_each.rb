@@ -8,5 +8,5 @@ def my_each(array)
 end
 
 def yielding
-  puts array[i]
+  array[i]
 end
